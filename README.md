@@ -32,6 +32,21 @@
   <h2>My Projects</h2>
   <ul>
     <li>
+      <a href="https://github.com/RobertoFMBarreto/api_gymapp_ts">
+         <p>Node API for GymApp</p>
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/RobertoFMBarreto/gymapp_gateway_api">
+         <p>Gateway Microservice for GymApp API</p>
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/RobertoFMBarreto/web_gymapp">
+         <p>GymApp webpage</p>
+      </a>
+    </li>
+    <li>
       <a href="https://github.com/EngenheirosOnFire/Trabalho1_LP.git">
          <p>C Rally Manager Project | First Year Computer Engenieering Degree</p>
       </a>
