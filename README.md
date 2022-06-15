@@ -24,6 +24,23 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg">
+  
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg">
+ 
 </div>
 
 <br/>
