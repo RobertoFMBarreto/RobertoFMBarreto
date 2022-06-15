@@ -1,12 +1,13 @@
 ### Hi there im Roberto Barreto
+
 - 👨‍💻 I’m currently working on a mobile fitness app
 - 👨‍💻 I’m currently learning Typescript and React
 - ⚡ I learned programming by teaching my self how to code creating games in unity with c# as 16 years old, since then i got excited with programming and looked for learning more and more, having then experience with html, php, MySQL and Iot programing for my final project in technical education. In my first year of Computer Engineering Degree i learned even more about programming placing that knowledge into class projects. Since then i have learned Flutter, Dart, Firestore and developed a fitness app with it.Recently i developed a project called gym app with a node js api, microservices, angular and postgres. Now im studing JavaScript and React.
 
 <div>
-  <a href="https://github.com/BertoBarreto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BertoBarreto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BertoBarreto&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/RobertoFMBarreto">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RobertoFMBarreto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoFMBarreto&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -34,7 +35,7 @@
       </a>
     </li>
     <li>
-      <a href="https://github.com/BertoBarreto/FitnessAppRelease.git">
+      <a href="https://github.com/RobertoFMBarreto/FitnessAppRelease.git">
          <p>Fitness App | Flutter Framework</p>
       </a>
     </li>
@@ -44,17 +45,17 @@
       </a>
     </li>
     <li>
-      <a href="https://github.com/BertoBarreto/AED2.git">
+      <a href="https://github.com/RobertoFMBarreto/AED2.git">
          <p>C Linked Lists And Lists | First Year Computer Engenieering Degree</p>
       </a>
     </li>
     <li>
-      <a href="https://github.com/BertoBarreto/AED_Trabalho2.git">
+      <a href="https://github.com/RobertoFMBarreto/AED_Trabalho2.git">
          <p>C Graphs and Trees | First Year Computer Engenieering Degree</p>
       </a>
     </li>
     <li>
-      <a href="https://github.com/BertoBarreto/CompanyManager.git">
+      <a href="https://github.com/RobertoFMBarreto/CompanyManager.git">
          <p>C# Company Manager | First Year Computer Engenieering Degree</p>
       </a>
     </li>
@@ -71,7 +72,5 @@
 
 <div>
   
-  ![Snake animation](https://github.com/BertoBarreto/BertoBarreto/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/RobertoFMBarreto/RobertoFMBarreto/blob/output/github-contribution-grid-snake.svg)
 </div>
-
-
