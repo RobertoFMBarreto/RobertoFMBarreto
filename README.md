@@ -71,6 +71,7 @@
 </div>
 
 <div>
-  ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
-  ![Snake animation](https://github.com/RobertoFMBarreto/RobertoFMBarreto/blob/output/github-snake-dark.svg)
+
+![Snake animation](https://github.com/RobertoFMBarreto/RobertoFMBarreto/blob/output/github-snake-dark.svg#gh-dark-mode-only)
+
 </div>
