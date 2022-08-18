@@ -1,5 +1,4 @@
 ### Hi there im Roberto Barreto
-- My Portfolio: https://robertofmbarreto.github.io/rfmb-portfolio/
 - 👨‍💻 I’m currently working on a mobile fitness app
 - 👨‍💻 I’m currently learning Typescript and React
 - 👨‍💻 Full stack developer
