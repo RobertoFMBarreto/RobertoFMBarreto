@@ -2,7 +2,7 @@
 - 👨‍💻 I’m currently working on a mobile fitness app
 - 👨‍💻 I’m currently learning Typescript and React
 - 👨‍💻 Full stack developer
-- 👨‍💻 Ease in learning new languages
+- 👨‍💻 Ease in learning new languages and Tools
 - ⚡ I learned programming by teaching my self how to code creating games in unity with c# as 16 years old, since then i got excited with programming and looked for learning more and more, having then experience with html, php, MySQL and Iot programing for my final project in technical education. In my first year of Computer Engineering Degree i learned even more about programming placing that knowledge into class projects. Since then i have learned Flutter, Dart, Firestore and developed a fitness app with it.Recently i developed a project called gym app with a node js api, microservices, angular and postgres. Now im studing JavaScript and React.
 
 <div>
